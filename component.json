@@ -1,0 +1,13 @@
+{
+  "name": "foreach",
+  "repo": "jamesvsnowden/foreach",
+  "description": "foreach array utility",
+  "version": "0.0.1",
+  "keywords": ["iterate", "enumerable", "array"],
+  "dependencies": {},
+  "development": {},
+  "license": "MIT",
+  "scripts": [
+    "index.js"
+  ]
+}
