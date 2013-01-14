@@ -28,7 +28,7 @@ forEach(array, function(item, index, array) {
   index === 0;
   array === array;
   this === scope;
-});
+}, scope);
 ```
 
 ## Dependencies
