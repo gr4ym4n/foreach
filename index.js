@@ -1,4 +1,12 @@
 
+  /**
+   * Call a function with each item of an array
+   *
+   * @param {Array} array
+   * @param {Function} callback
+   * @param {Mixed} [scope]
+   * @returns undefined
+   */
   module.exports = Array.prototype.forEach ?
 
     function(array, callback, scope) {
