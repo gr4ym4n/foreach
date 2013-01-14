@@ -9,6 +9,8 @@ designed to be spec-compliant, nor will it report errors nicely.
 
 ## Installation
 
+*foreach* is intended to be used as a [component](https://github.com/component/component).
+
     $ component install jamesvsnowden/foreach
 
 ## API
